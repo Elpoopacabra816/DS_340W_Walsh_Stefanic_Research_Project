@@ -3,5 +3,6 @@ The original research has a critical flaw by using a TF-IDF / Bag of Words vecto
 much higher natural language processing capabilities. The cybersecurity field has hundreds of domain-specific terminology and acronyms that greatly impacted the original vectorization method.
 Our research will test many different modern vectorizers to achieve greater accuracy and understaning of cybersecurity discussion online.
 
-Due to its size, we cannot upload the data or the zip files contaianing the current data. The data is being subsetted from GitHub and saved to google drive in order to be accessed in colab.
-All programs used to do so are uploaded here.
+In order to run the code first use the subsetter in order to download a subset of the data to your google drive, then run the final version of the CTC in order to reproduce the results seen in the paper and presentation.
+
+
